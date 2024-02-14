@@ -54,7 +54,7 @@ The following package/library versions were used in this study:
 
 ## Folders Structure
 The files are organised into four folders:
-* *document*: which contains all the proteomics and clinical patient informations required to perform the analyses described in the paper.
 * *code*: contains the python code in the ipython notebook to reproduce all analyses and generate the the figures in this study.
+* *document*: which contains all the proteomics and clinical patient informations required to perform the analyses described in the paper.
 * *documents*: contains the related annotationfiles and the Supplementary Table produced by the code.
 * *figure*: contains the related plots produced by the code.
