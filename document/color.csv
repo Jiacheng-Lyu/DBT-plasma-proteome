@@ -1,0 +1,17 @@
+group_name,type,color
+Cohort,Healthy control,#00ABD0
+Cohort,DBT,#FFB376
+Response state iRECIST,iPR,#65c96e
+Response state iRECIST,iSD,#6595c9
+Response state iRECIST,iUPD,#e8a13a
+Response state iRECIST,iCPD,#b53a3a
+Response state iRECIST,iCR,#D1E7C1
+Response state iRECIST,not-evaluated,#808080
+Response state iRECIST,pre DBT,#F8DD9B
+Response state,DP,#EF7C21
+Response state,DNP,#2372A9
+Response state precise,DP,#EF7C21
+Response state precise,DNP,#2372A9
+Therapy ID,Healthy control,#00ABD0
+Therapy ID,pre DBT,#F8DD9B
+Therapy ID,1st DBT,#87BAC3
