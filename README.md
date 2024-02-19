@@ -45,6 +45,7 @@ The following package/library versions were used in this study:
 * pandas (version 1.5.3)
 * numpy (version 1.26.3)
 * scipy (version 1.12.0)
+* statsmodels (version 0.14.1)
 * matplotlib (version 3.7.3)
 * seaborn (version 0.11.2)
 * scikit-learn (version 1.2.1)
